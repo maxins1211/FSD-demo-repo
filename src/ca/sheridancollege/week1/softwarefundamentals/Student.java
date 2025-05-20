@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package ca.sheridancollege.week1.softwarefundamentals;
-
+//Nghi Lam Vo
 /**
  * A class to model Student Objects
  * each student has: a name (first an last name)
